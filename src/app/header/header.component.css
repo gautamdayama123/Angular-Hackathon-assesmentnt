@@ -1,0 +1,29 @@
+.header {
+    color: MidnightBlue;
+    background-image: url;
+    height: 400px;
+    background-position: center center;
+    background-color: Aqua;
+  }
+  .c{
+      position: fixed;
+      top:10px;
+      left: 50%;
+      transform: translateX(-50%);
+  }
+  
+  .z{
+      position: fixed;
+      top:10px;
+      right:10px;
+  
+  }
+  *{
+    color: azure;
+  }
+   #nav{
+    margin-top: 0;
+    height: 40px;
+   }
+  
+  

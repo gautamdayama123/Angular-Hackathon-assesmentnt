@@ -1,0 +1,6 @@
+<h6>Cust Name: {{order.contactName}}</h6>
+<h6>order_Date: {{order.orderDate}}</h6>
+<div *ngFor="let item in order.itemsOrdered">
+<p>{{item.name}}</p>
+<p>{{item.quantity}}</p>
+</div>
